@@ -1,0 +1,34 @@
+{
+  "name": "cs-event",
+  "version": "1.0.1",
+  "description": "js事件驱动",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cyssxt/event.git"
+  },
+  "keywords": [
+    "event",
+    "javascript",
+    "事件"
+  ],
+  "author": "xutao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyssxt/event/issues"
+  },
+  "homepage": "https://github.com/cyssxt/event#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.0"
+  }
+}
