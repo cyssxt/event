@@ -1,7 +1,7 @@
 {
   "name": "cs-event",
-  "version": "1.1.0",
-  "description": "js事件驱动",
+  "version": "1.1.1",
+  "description": "javascript自定义事件 支持事件分组 删除",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
