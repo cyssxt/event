@@ -1,6 +1,6 @@
 {
   "name": "cs-event",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "js事件驱动",
   "main": "src/index.js",
   "scripts": {
